@@ -1,0 +1,6 @@
+vapor
+led
+acesaNaoIdentificada
+fluorescente
+incandecente
+outros

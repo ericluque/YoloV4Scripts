@@ -1,0 +1,6 @@
+classes= 6
+train  = /home/ericluque/lampadas/train.txt
+valid  = /home/ericluque/lampadas/test.txt
+names = /home/ericluque/lampadas/labels.txt
+backup = /home/ericluque/lampadas/backup/
+
